@@ -1,0 +1,38 @@
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\obj\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\bin\Debug\EyeXFramework.dll
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\bin\Debug\EyeXFramework.pdb
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\obj\Debug\EyeXFramework.dll
+C:\Users\Master\Documents\GitHub\BrainGazeProject\BrainGazeProject\BrainGazeProject\EyeXFramework\obj\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\bin\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\bin\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\obj\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\obj\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\DogThing\DogThing\EyeXFramework\obj\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\bin\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\bin\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\obj\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\obj\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TransparentVis\TransparentVis\EyeXFramework\obj\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\bin\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\bin\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\obj\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\obj\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\Visual Studio 2017\Projects\TeachView\TeachView\EyeXFramework\obj\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\bin\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\bin\Debug\EyeXFramework.pdb
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\obj\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\obj\Debug\EyeXFramework.dll
+C:\Users\ResearchSquad\Documents\GitHub\LearnView\StudentView\StudentView\EyeXFramework\obj\Debug\EyeXFramework.pdb
